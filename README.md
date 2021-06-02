@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sponberry (aka Abi)
+- 👀 I’m interested in developing useful, responsive web apps with JavaScript! Eventually, I would like to link my JavaScript and Python skills to build my back-end in Flask.
+- 🌱 I’m currently learning from the University of Helsinki's online FullStack course.
+- 💞️ I’m looking to collaborate on building more complex apps with other aspiring programmers
+- 📫 How to reach me: 🐦 Twitter: @sponberry
