@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sponberry (aka Abi)
-- 👀 I’m interested in developing useful, responsive web apps with JavaScript! Eventually, I would like to link my JavaScript and Python skills to build my back-end in Flask.
-- 🌱 I’m currently learning from the University of Helsinki's online FullStack course.
+- 👀 I’m interested in developing useful, responsive web apps with JavaScript, particularly in React or using web components! Currently working on a personal project in Next.js to map the locales of all the books I read.
+- 🌱 I’m currently working as a web developer on technically complex Shopify builds.
 - 💞️ I’m looking to collaborate on building more complex apps with other aspiring programmers
-- 📫 How to reach me: 🐦 Twitter: @sponberry
+- 📫 How to reach me: 💌 abigailillustration (at) gmail.com
