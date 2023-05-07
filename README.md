@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sponberry (aka Abi)
 - 👀 I’m interested in developing useful, responsive web apps with JavaScript, particularly in React or using web components! Currently working on a personal project in Next.js to map the locales of all the books I read.
 - 🌱 I’m currently working as a web developer on technically complex Shopify builds.
-- 💞️ I’m looking to collaborate on building more complex apps with other aspiring programmers
+- 💞️ I’m looking to collaborate on building more complex apps with other devs and contribute to Open Source
 - 📫 How to reach me: 💌 abigailillustration (at) gmail.com
